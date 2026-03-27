@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Ibrahim
 
 Computer Engineering student at the University of Greenwich, focused on building real-world backend systems and production-ready applications.
+I build and deploy real systems end-to-end (backend, infrastructure, and integrations).
 
 ---
 
-## 🚀 What I do
+## 🚀 What I work with
 
 - Backend Development (FastAPI, PostgreSQL)
 - System Deployment (Docker, Nginx, VPS)
 - IT & Infrastructure (Linux, networking, security)
-- Building practical software for real businesses
+- Building production-ready applications
 
 ---
 
 ## 🔥 Featured Project
 
 ### 💈 SalonFlow  
-Production-ready barbershop booking system with WhatsApp integration.
+Production-ready booking system with WhatsApp integration, built for real business use.
 
 - Clients book directly via WhatsApp  
 - Admin dashboard for managing bookings  
@@ -33,7 +34,7 @@ Production-ready barbershop booking system with WhatsApp integration.
 **Backend:** FastAPI, Python, SQLAlchemy  
 **Frontend:** React, TypeScript  
 **Database:** PostgreSQL  
-**DevOps:** Docker, Nginx, Linux, Cloudflare  
+**Infrastructure:** Docker, Nginx, Linux, Cloudflare  
 
 ---
 
