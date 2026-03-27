@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Ibrahim
 
-<!--
-**brahemrifi9/brahemrifi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Greenwich, focused on building real-world backend systems and production-ready applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+
+- Backend Development (FastAPI, PostgreSQL)
+- System Deployment (Docker, Nginx, VPS)
+- IT & Infrastructure (Linux, networking, security)
+- Building practical software for real businesses
+
+---
+
+## 🔥 Featured Project
+
+### 💈 SalonFlow  
+Production-ready barbershop booking system with WhatsApp integration.
+
+- Clients book directly via WhatsApp  
+- Admin dashboard for managing bookings  
+- Real-time availability system  
+- Fully deployed on VPS with Docker & Nginx  
+
+👉 https://admin.salonflowapp.com  
+👉 https://api.salonflowapp.com  
+
+---
+
+## 🧠 Tech Stack
+
+**Backend:** FastAPI, Python, SQLAlchemy  
+**Frontend:** React, TypeScript  
+**Database:** PostgreSQL  
+**DevOps:** Docker, Nginx, Linux, Cloudflare  
+
+---
+
+## 📈 Current Focus
+
+- Scaling SalonFlow to real clients  
+- Improving backend architecture  
+- Transitioning into IT / Backend role  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (add your link)
+- Email: (add your email)
