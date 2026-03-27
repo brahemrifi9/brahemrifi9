@@ -47,5 +47,5 @@ Production-ready barbershop booking system with WhatsApp integration.
 
 ## 📫 Contact
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: https://www.linkedin.com/in/ibrahim-bachir
+- Email: brahemlondon@gmail.com
