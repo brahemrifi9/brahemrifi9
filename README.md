@@ -1,52 +1,43 @@
-# 👋 Hi, I'm Ibrahim
+👋 Hi, I'm Ibrahim
 
-Computer Engineering student at the University of Greenwich, focused on building real-world backend systems and production-ready applications.
-I build and deploy real systems end-to-end (backend, infrastructure, and integrations).
+Computer Engineering student at the University of Greenwich, building production SaaS from scratch — backend, infrastructure, and third-party integrations.
 
 ---
 
 ## 🚀 What I work with
 
-- Backend Development (FastAPI, PostgreSQL)
-- System Deployment (Docker, Nginx, VPS)
-- IT & Infrastructure (Linux, networking, security)
-- Building production-ready applications
+- **Backend**: FastAPI, Python, SQLAlchemy, PostgreSQL, Alembic
+- **Frontend**: React, TypeScript, Vite
+- **Infrastructure**: Docker, Nginx, Linux VPS (Hetzner), Cloudflare
+- **Integrations**: WhatsApp Cloud API, Webhooks, JWT Auth
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Project — SalonFlow
 
-### 💈 SalonFlow  
-Production-ready booking system with WhatsApp integration, built for real business use.
+A **multi-tenant SaaS platform** for barbershops. Each business gets its own isolated data, booking flow, and admin panel — all running on shared infrastructure.
 
-- Clients book directly via WhatsApp  
-- Admin dashboard for managing bookings  
-- Real-time availability system  
-- Fully deployed on VPS with Docker & Nginx  
+- 💬 WhatsApp chatbot booking flow (per-tenant, multilingual)
+- 🗓️ Real-time availability engine with overlap protection at DB level
+- 🏢 Multi-tenant architecture — business isolation via `business_id` FK across all tables
+- 🔐 JWT-authenticated admin dashboard per business
+- ☁️ Deployed on Hetzner VPS with Docker, Nginx, and Cloudflare
+- ⚙️ Database migrations managed with Alembic
 
-👉 https://admin.salonflowapp.com  
-👉 https://api.salonflowapp.com  
-
----
-
-## 🧠 Tech Stack
-
-**Backend:** FastAPI, Python, SQLAlchemy  
-**Frontend:** React, TypeScript  
-**Database:** PostgreSQL  
-**Infrastructure:** Docker, Nginx, Linux, Cloudflare  
+🔗 https://admin.salonflowapp.com
+🔗 https://api.salonflowapp.com
 
 ---
 
-## 📈 Current Focus
+## 🧠 Current Focus
 
-- Scaling SalonFlow to real clients  
-- Improving backend architecture  
-- Transitioning into IT / Backend role  
+- Growing SalonFlow to multiple paying clients (first client live in production)
+- Deepening backend architecture & distributed systems knowledge
+- Open to Software Engineer roles (backend-leaning, full-stack)
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/ibrahim-bachir
 - Email: brahemlondon@gmail.com
