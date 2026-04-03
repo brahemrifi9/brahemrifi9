@@ -1,4 +1,4 @@
-👋 Hi, I'm Ibrahim
+## 👋 Hi, I'm Ibrahim
 
 Computer Engineering student at the University of Greenwich, building production SaaS from scratch — backend, infrastructure, and third-party integrations.
 
